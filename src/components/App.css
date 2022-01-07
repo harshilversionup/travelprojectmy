@@ -1,0 +1,18 @@
+.poster
+{
+    height: 700px;
+    width: 100%;
+}
+
+@media screen and (max-width:600px){
+    .poster
+    {
+        height: 300px;
+        width: 100%;
+    }
+}
+#footer
+{
+    background-color: rgb(43, 83, 192);
+    color: black;
+}
